@@ -9,4 +9,6 @@ if(i>0){
   else{
     printf("Odd");}
 }
+  else{
+  printf("invalid");}
 }
